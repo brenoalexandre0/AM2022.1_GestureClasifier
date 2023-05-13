@@ -1,14 +1,41 @@
 # AM-2022.1---Gesture-Classifier
-- Projeto de Aprendizado de Máquina, do primeiro semestre de 2022, tutorado pelo Prof. Dr. Fabrício Braz
-- Modelo indentifica gestos de mão em uma imagem
-- Modelo treinado no HaGRID,com uma base de dados menor, pois é originalmente extensa
+- Machine Learning Project, from the first semestter of 2022, tutored by Prof. Dr. Fabrício Braz
+- Model identifies hand gestures in an image
+- Model trained in HaGRID, with a smaller database, as it is originally extensive
 
-## Gestos identificáveis
+## Identifiable gestures
+- 🤙 call
+- 👎 dislike
+- ✊ fist
+- 🖐️ four (ignore one finger here)
+- 👍 like
+- 🤭 mute
+- 👌 ok
+- 👆 one
+- ✋ palm
+- ✌️ peace
+- ✌️ peace_inverted
+- 🤘 rock
+- ✋ stop
+- 🤚 stop_inverted
+- 🖐️ three (ignore two fingers  here)
+- 🖐️ three2 (ignore two fingers  here)
+- ✌️ two_up (pretend the two raised fingers are close)
+- ✌️ two_up_inverted (pretend the two raised fingers are close)
 
-## Passo a passo
-- Modifique o caminho dos arquivos que serão usados
-- Insira uma imagem com uma mão fazendo algum gesto
-- O resultado será gerado
+## Step by step
+- Start the blocks
+- Modify the path where the files will be uploaded from
+- Load batch and confusion matrix
+- Insert an image with any of the above hand gestures to be classified
+- The classification is generated
 
-## Modelo original
+## Screenshots
+
+
+## Installation
+Language: Jupyther Notebook
+Framework: fast.ai, fastbook,resnet18, resnet152
+
+## Original model
 https://github.com/hukenovs/hagrid
