@@ -31,6 +31,7 @@
 - The classification is generated
 
 ## Screenshots
+![image](https://github.com/brenoalexandre0/AM-2022.1---Gesture-Classifier/assets/80782792/9e8b3f8b-2ad8-4e32-927c-ff9b02b2feed)
 
 
 ## Installation
