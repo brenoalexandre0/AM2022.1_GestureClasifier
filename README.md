@@ -1,4 +1,4 @@
-# AM-2022.1---Gesture-Classifier
+# AM2022.1_GestureClasifier
 - Machine Learning Project, from the first semestter of 2022, tutored by Prof. Dr. Fabrício Braz
 - Model identifies hand gestures in an image
 - Model trained in HaGRID, with a smaller database, as it is originally extensive
