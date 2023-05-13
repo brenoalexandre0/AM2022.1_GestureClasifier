@@ -35,7 +35,7 @@
 
 ## Installation
 Language: Jupyther Notebook
-Framework: fast.ai, fastbook,resnet18, resnet152
+Framework: fast.ai, fastbook, resnet18, resnet152
 
 ## Original model
 https://github.com/hukenovs/hagrid
