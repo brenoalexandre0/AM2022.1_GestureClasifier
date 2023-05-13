@@ -35,10 +35,9 @@
 ## Screenshots
 ![image](https://github.com/brenoalexandre0/AM-2022.1---Gesture-Classifier/assets/80782792/9e8b3f8b-2ad8-4e32-927c-ff9b02b2feed)
 
-
 ## Installation
-Language: Jupyther Notebook
-Framework: tqdm, numpy, os, json, PIL, fast.ai, fastbook, resnet18, resnet152, pandas
+**Language:** Jupyther Notebook  
+**Framework:** tqdm, numpy, os, json, PIL, fast.ai, fastbook, resnet18, resnet152, pandas
 
 ## Original model
 https://github.com/hukenovs/hagrid
