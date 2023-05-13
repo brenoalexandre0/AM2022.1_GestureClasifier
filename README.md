@@ -2,6 +2,7 @@
 - Machine Learning Project, from the first semestter of 2022, tutored by Prof. Dr. Fabrício Braz
 - Model identifies hand gestures in an image
 - Model trained in HaGRID, with a smaller database, as it is originally extensive
+- The database images was cut using bounding box
 
 ## Identifiable gestures
 - 🤙 call
@@ -24,6 +25,7 @@
 - ✌️ two_up_inverted (pretend the two raised fingers are close)
 
 ## Step by step
+- Extract the file "cropped"
 - Start the blocks
 - Modify the path where the files will be uploaded from
 - Load batch and confusion matrix
@@ -36,7 +38,7 @@
 
 ## Installation
 Language: Jupyther Notebook
-Framework: fast.ai, fastbook, resnet18, resnet152
+Framework: tqdm, numpy, os, json, PIL, fast.ai, fastbook, resnet18, resnet152, pandas
 
 ## Original model
 https://github.com/hukenovs/hagrid
