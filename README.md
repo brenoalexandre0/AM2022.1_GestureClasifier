@@ -2,7 +2,7 @@
 - A Machine Learning Project, from the first semester of 2022, tutored by Prof. Dr. Fabrício Braz, at UnB. 
 - Model identifies hand gestures in an image
 - Model trained using HaGRID, with a smaller database, as it is originally extensive
-- The database images was cut using bounding box, given that by doing it, a better accuracy can be achieved
+- The images from the database were cut using bounding box, given that by doing it, a better accuracy can be achieved
 
 ## Identifiable gestures
 - 🤙 call
